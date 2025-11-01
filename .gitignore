@@ -1,11 +1,35 @@
-nbproject/private/
-build/
-dist/
-nbproject/genfiles.properties
-nbproject/build-impl.xml
+# === Archivos y carpetas generadas por NetBeans ===
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/Package-*.bash
+/nbproject/configurations.xml
+/nbproject/genfiles.properties
+/nbproject/build-impl.xml
+
+# === Directorios de compilación ===
+/build/
+/dist/
+/out/
+/target/
+
+# === Archivos binarios y de log ===
 *.class
 *.jar
+*.war
+*.ear
 *.log
 *.tmp
+
+# === Archivos de sistema ===
 .DS_Store
 Thumbs.db
+
+# === Archivos de configuración del IDE (opcionales) ===
+*.iml
+.idea/
+.vscode/
+
+# === Dependencias externas (si usas Gradle o Maven) ===
+/.gradle/
+/.mvn/
+/node_modules/
