@@ -1,0 +1,11 @@
+nbproject/private/
+build/
+dist/
+nbproject/genfiles.properties
+nbproject/build-impl.xml
+*.class
+*.jar
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
